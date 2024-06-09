@@ -1,0 +1,144 @@
+@media (max-width:1200px){
+      
+      
+       
+}
+@media (max-width:992px){
+       
+  .header__content{
+    flex-direction: column;
+  }
+  .header__content__img{
+    width: 100%;
+    order: -1;
+    margin-bottom: 4rem;
+  }
+  .header__title{
+    text-align: center;
+    font-size: 2.8rem;
+  }
+  .header__content__left{
+    width: 100%;
+  }
+  .header__caption{
+    text-align: center;
+    font-size: 1.8rem;
+    margin-left: auto;
+     margin-right: auto;
+     margin-bottom: 4rem;
+  }
+  .header__email-input{
+    margin-right: 0;
+  }
+ 
+  .header__content__left__bottom{
+    justify-content: center;
+  }
+  .main__section{
+    flex-direction: column-reverse;
+  }
+  .main__section__image{
+    width: 100%;
+    margin-bottom: 6rem;
+  }
+  .main__section__left__content{
+    width: 100%;
+  }
+  .main__section__title{
+    /* font-size: 3.5rem; */
+    max-width: 66rem;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .main__section__left__paragraph1{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+  }
+  .main__section__left__paragraph2{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    margin-bottom: 4rem;
+
+  }
+  .main__section__bottom__box{
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .main__section__highlight{
+    display: flex;
+    width: 18.71rem;
+    margin-left: auto;
+    margin-right: auto;
+  }
+  .main__access__section__wrraper{
+    text-align: center;
+    justify-content: center;
+  }
+  .main__access__section__link{
+    width: 100%;
+  }
+  .main__access__section__title{
+    font-size: 3rem;
+  }
+  .main__access__sectio__caption{
+    font-size: 1.65rem;
+  }
+  .main__section__email-input{
+    width: 100%;
+  }
+ .main__access__section__right__content{
+  width: 50%;
+ }
+}
+
+
+@media (max-width:768px){
+  .header__nav__menu{
+    display: none;
+  }
+  .header__open__btn{
+    display: block;
+    order: 1;
+  }
+  .hide{
+    display: none;
+  }
+  .main__section__title{
+    font-size: 3rem;
+    max-width: 50rem;
+  }
+  .main__section__left__paragraph1{
+    font-size: 1.75rem;
+    max-width: 48rem;
+  }
+  .main__section__left__paragraph1{
+    font-size: 1.75rem;
+    max-width: 48rem;
+  }
+  .main__access__section__right__content{
+    width: 100%;
+  }
+
+  
+   
+   
+   
+}
+
+@media (max-width:576px){
+   
+   .header__email-input{
+    width: 100%;
+    margin-bottom: 0.8rem;
+
+   }
+   .header__content__link{
+    width: 100%;
+   }
+       
+   }
+   
+   
